@@ -1,0 +1,12 @@
+{  
+   "id":"e88aded3-4455-3142-aeb7-e867fc654090",
+   "name":"Axis - Dev1",
+   "values":[  
+      {  
+         "key":"ROOT_URL",
+         "value":"https://dev1-axis.disney.network/axis",
+         "type":"text"
+      }
+   ],
+   "timestamp":1469724523536
+}

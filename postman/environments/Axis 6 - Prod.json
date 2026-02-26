@@ -1,0 +1,12 @@
+{  
+   "id":"6d8af0d5-db83-37e3-43f8-ddcd6bc2f3f9",
+   "name":"Axis 6 - Prod",
+   "values":[  
+      {  
+         "key":"ROOT_URL",
+         "value":"https://axis.disney.network/axis",
+         "type":"text"
+      }
+   ],
+   "timestamp":1469725271801
+}

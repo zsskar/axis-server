@@ -1,0 +1,12 @@
+{
+   "id":"",
+   "name":"Axis 6 - Int1",
+   "values":[  
+      {  
+         "key":"ROOT_URL",
+         "value":"https://int1-axis.disney.network/axis",
+         "type":"text"
+      }
+   ],
+   "timestamp":1469725267113
+}

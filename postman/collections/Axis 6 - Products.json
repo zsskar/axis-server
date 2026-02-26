@@ -1,0 +1,35 @@
+{  
+   "id":"634b0568-d5b9-e9ff-e6cb-945351ec4cea",
+   "name":"Axis 6 - Products",
+   "timestamp":1470245016546,
+   "requests":[  
+      {  
+         "collectionId":"634b0568-d5b9-e9ff-e6cb-945351ec4cea",
+         "id":"2b1bf51e-5d49-a862-bc9a-70e8c67f1be4",
+         "name":"Get Infinity Product (fr)",
+         "description":"",
+         "url":"{{ROOT_URL}}/products/v1/product/infinityonline",
+         "method":"GET",
+         "headers":"Content-Type: application/json\nAccept-Language: fr-fr\n",
+         "data":"",
+         "dataMode":"raw",
+         "timestamp":0,
+         "version":2,
+         "time":1470246791971
+      },
+      {  
+         "collectionId":"634b0568-d5b9-e9ff-e6cb-945351ec4cea",
+         "id":"de8d215e-26ad-388a-3ae5-5d3ebffda7aa",
+         "name":"Get Infinity Product (en)",
+         "description":"",
+         "url":"{{ROOT_URL}}/products/v1/product/infinityonline",
+         "method":"GET",
+         "headers":"Content-Type: application/json\n",
+         "data": "",
+         "dataMode":"params",
+         "timestamp":0,
+         "version":2,
+         "time":1470246908839
+      }
+   ]
+}

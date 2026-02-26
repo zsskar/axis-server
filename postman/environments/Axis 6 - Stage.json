@@ -1,0 +1,12 @@
+{  
+   "id":"9266a120-a9a0-49ac-1ad5-5c81acfe5d90",
+   "name":"Axis 6 - Stage",
+   "values":[  
+      {  
+         "key":"ROOT_URL",
+         "value":"https://stage-axis.disney.network/axis",
+         "type":"text"
+      }
+   ],
+   "timestamp":1469725294341
+}

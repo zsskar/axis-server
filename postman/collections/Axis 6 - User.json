@@ -1,0 +1,23 @@
+{  
+   "id":"21227eee-1ecb-82bb-ef7b-4d1b33e76f94",
+   "name":"Axis 6 - User",
+   "timestamp":1469724989226,
+   "requests":[  
+      {  
+         "collectionId":"21227eee-1ecb-82bb-ef7b-4d1b33e76f94",
+         "id":"321ea919-e27d-3142-32fc-3f85ade43440",
+         "name":"Get User",
+         "description":"",
+         "url":"{{ROOT_URL}}/user/v1/dekod002",
+         "method":"GET",
+         "headers":"Content-Type: application/json\n",
+         "data":"{\n  \"isEnabled\": true,\n  \"permission\": \"Super User\",\n  \"limit\": null,\n  \"orderBy\": \"username\",\n  \"orderAsc\": true\n}",
+         "dataMode":"raw",
+         "timestamp":0,
+         "responses":[  
+
+         ],
+         "version":2
+      }
+   ]
+}
